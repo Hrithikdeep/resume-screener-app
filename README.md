@@ -13,7 +13,7 @@ This tool uses **AI + Groq LLM** to analyze your resume against any job descript
 
 ---
 
-## 🚀 Why This Matters (Hook)
+## 🚀 Why This Matters 
 
 In today’s job market:
 
