@@ -4,7 +4,9 @@ import pdfplumber
 from groq import Groq
 
 # 🔐 Set your Groq API key here
-GROQ_API_KEY = "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"
+import streamlit as st
+GROQ_API_KEY = st.secrets["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"]
+
 client = Groq(api_key=GROQ_API_KEY)
 
 # ✅ Streamlit Setup
