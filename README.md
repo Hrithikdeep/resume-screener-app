@@ -38,15 +38,19 @@ Just upload 2 PDFs:
 
 And it instantly returns:
 
+
 1️⃣ **Resume Score** (out of 100)
+
 2️⃣ **Shortlist Verdict** (yes or no)
+
 3️⃣ **Missing Skills & Keywords**
+
 4️⃣ **Smart Project Suggestions**
+
 5️⃣ **Formatted Resume Edit Template**
 *(like: "In Skills section, add Python, SQL")*
 
 ---
-
 ## 🖥️ Live Demo
 
 Try it here 👉 \[https://resume-screener-app-dbvpuv2ihfiedvj6hnde9p.streamlit.app/]
